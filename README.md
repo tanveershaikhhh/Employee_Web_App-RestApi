@@ -1,4 +1,4 @@
-# G1B3_BED_GradedProject4
+# G2B2_BED_GradedProject4
 Login credentials
 
 For Admin -> all access
@@ -18,12 +18,12 @@ For User -> access to only GET methods
    
   -- insert data into employees table 
 INSERT INTO employees (id, email, first_name, last_name) 
-VALUES (1, 'pooja@gmail.com','pooja','chavali'),
-	   (2, 'sneha@gmail.com','sneha','sri'),
-       (3, 'john@gmail.com','john','louis'),
-       (4, 'nikhil@gmail.com','nikhil','reddy'),
-       (5, 'aparna@gmail.com','aparna','sharma'),
-       (6, 'kiran@gmail.com','kiran','jajula');
+VALUES (1, 'tanveer@gmail.com','tanveer','shaikh'),
+	   (2, 'vaishnavi@gmail.com','vaishnavi','saxena'),
+       (3, 'shiv@gmail.com','shiv','kumar'),
+       (4, 'sachin@gmail.com','sachin','naik'),
+       (5, 'swapna@gmail.com','swapna','adagle'),
+       (6, 'kiran@gmail.com','kiran','oberoi');
        
  
    -- insert data into role table
